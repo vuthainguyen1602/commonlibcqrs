@@ -1,6 +1,6 @@
 package com.example.commonlibcqrs.events;
 
-import com.gmail.andersoninfonet.common.model.enums.ShipmentStatus;
+import com.example.commonlibcqrs.model.enums.ShipmentStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

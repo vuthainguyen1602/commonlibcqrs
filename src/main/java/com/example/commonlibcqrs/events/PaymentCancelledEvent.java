@@ -1,6 +1,6 @@
 package com.example.commonlibcqrs.events;
 
-import com.gmail.andersoninfonet.common.model.enums.PaymentStatus;
+import com.example.commonlibcqrs.model.enums.PaymentStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

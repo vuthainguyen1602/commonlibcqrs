@@ -1,6 +1,6 @@
 package com.example.commonlibcqrs.commands;
 
-import com.gmail.andersoninfonet.common.model.CardDetails;
+import com.example.commonlibcqrs.model.CardDetails;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
